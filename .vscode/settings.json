@@ -1,0 +1,6 @@
+{
+  "svelte.plugin.css.enable": false,
+  "svelte.plugin.svelte.compilerWarnings": {
+    "css-syntax-error": "ignore"
+  }
+}

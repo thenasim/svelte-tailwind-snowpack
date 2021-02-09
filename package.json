@@ -6,7 +6,11 @@
   },
   "devDependencies": {
     "@snowpack/plugin-svelte": "^3.5.2",
-    "snowpack": "^3.0.1"
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.5",
+    "snowpack": "^3.0.1",
+    "svelte-preprocess": "^4.6.6",
+    "tailwindcss": "^2.0.3"
   },
   "dependencies": {
     "svelte": "^3.32.2"
